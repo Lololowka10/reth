@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lololowka10.github.io/reth/sitemap.xml
